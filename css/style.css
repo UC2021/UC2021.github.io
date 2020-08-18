@@ -8147,14 +8147,14 @@ textarea.form-control {
     opacity: 1;
     background: #2f89fc;
     background: -moz-linear-gradient(-45deg, #411b9d 0%, #343a40 100%);
-    background: -webkit-gradient(left top, right bottom, color-stop(0%, #343a40), color-stop(100%, #55fbc2));
+    background: -webkit-gradient(left top, right bottom, color-stop(0%, #411b9d), color-stop(100%, #343a40));
     background: -webkit-linear-gradient(-45deg, #411b9d 0%, #343a40 100%);
     background: -o-linear-gradient(-45deg, #411b9d 0%, #343a40 100%);
     background: -ms-linear-gradient(-45deg, #411b9d 0%, #343a40 100%);
     background: -webkit-linear-gradient(315deg, #411b9d 0%, #343a40 100%);
     background: -o-linear-gradient(315deg, #411b9d 0%, #343a40 100%);
     background: linear-gradient(135deg, #411b9d 0%, #343a40 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#411b9d', endColorstr='#343a40', GradientType=1 ); }
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#411b9d', endColorstr='#8671b9', GradientType=1 ); }
   @media (max-width: 767.98px) {
     .ftco-section {
       padding: 6em 0; } }
