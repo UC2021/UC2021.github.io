@@ -7149,7 +7149,7 @@ button.bg-dark:focus {
   color: #78d5ef !important; }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #4ac7ea !important; }
+  color: #411b9d !important; }
 
 .text-secondary {
   color: #6c757d !important; }
@@ -7164,10 +7164,10 @@ a.text-success:hover, a.text-success:focus {
   color: #1e7e34 !important; }
 
 .text-info {
-  color: #17a2b8 !important; }
+  color: #411b9d !important; }
 
 a.text-info:hover, a.text-info:focus {
-  color: #117a8b !important; }
+  color: #411b9d !important; }
 
 .text-warning {
   color: #ffc107 !important; }
@@ -7525,7 +7525,7 @@ h1, h2, h3, h4, h5,
         width: 100% !important; } }
   .slider-text h1 {
     font-size: 32px;
-    color: #2f89fc;
+    color: #411b9d;
     line-height: 1.2;
     font-weight: 400; }
     @media (max-width: 991.98px) {
@@ -7739,7 +7739,7 @@ h1, h2, h3, h4, h5,
     position: relative; }
     .services .icon span {
       font-size: 60px;
-      color: #2f89fc; }
+      color: #411b9d; }
   .services .media-body h3 {
     font-size: 20px; }
 
@@ -7752,7 +7752,7 @@ h1, h2, h3, h4, h5,
     .services-wrap .list-services .icon {
       width: 80px;
       height: 80px;
-      background: #2f89fc;
+      background: #411b9d;
       -webkit-border-radius: 50%;
       -moz-border-radius: 50%;
       -ms-border-radius: 50%;
@@ -7778,7 +7778,7 @@ h1, h2, h3, h4, h5,
     height: 400px;
     position: relative; }
   .work-entry .text {
-    background: #2f89fc;
+    background: #411b9d;
     position: absolute;
     top: 0;
     left: 0;
@@ -7852,7 +7852,7 @@ h1, h2, h3, h4, h5,
     .staff .info h3 {
       font-size: 18px; }
       .staff .info h3 a {
-        color: #2f89fc; }
+        color: #411b9d; }
     .staff .info span.position {
       display: block;
       margin-bottom: 15px;
